@@ -14,7 +14,7 @@ When installing ```python3.8```, select Add python to environment variables
 
 If multiple python versions exist in the system, set 3.8 to the highest priority
 
-If you are creating a python3.8 environment in conda, you need to set the ```PYTHONHOME``` environment variable
+If you are creating a ```python3.8``` environment in ```conda```, you need to set the ```PYTHONHOME``` environment variable
 
 Install two third-party libraries for python
 ```
