@@ -2,7 +2,8 @@
 
 # Overall
 A theoretical and implementable framework to analyze, categorize and identify ambiguity in magnetic pose estimation, which lays the foundation for optimizing configurations of magnetic sources and designing compact, energy-efficient, but unambiguous magnetic tracking systems with minimum number of magnetic sources.
-![figure1](https://github.com/MagRobotics/MNSS/assets/161809470/2941ae28-4775-446e-be97-1b5406c0746a)
+![figure1](https://github.com/MagRobotics/software/assets/161809470/dce1c66f-0430-4126-bff3-49cb26c60ee3)
+
 
 # Dependencies and Installation
 Download the software package and decompress it. The download path does not contain Chinese
