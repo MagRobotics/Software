@@ -8,13 +8,13 @@ The major purpose of the proposed simulator is to facilitate the design and deve
 # Dependencies and Installation
 Download the software package and decompress it. The download path does not contain Chinese
 
-For Windows7 or later, python3.8 can be installed
+For Windows7 or later, ```python3.8``` can be installed
 
-When installing python3.8, select Add python to environment variables
+When installing ```python3.8```, select Add python to environment variables
 
 If multiple python versions exist in the system, set 3.8 to the highest priority
 
-If you are creating a python3.8 environment in conda, you need to set the PYTHONHOME environment variable
+If you are creating a python3.8 environment in conda, you need to set the ```PYTHONHOME``` environment variable
 
 Install two third-party libraries for python
 ```
@@ -24,9 +24,9 @@ $ pip install scipy
 If you need other functions in the application software, install the corresponding third-party python library
 
 # Running
-Double-click the software to start using: bin/Release/MNSS.exe
+Double-click the software to start using: ```bin/Release/MNSS.exe```
 
-Please refer to the manual for details: manual.docx
+Please refer to the manual for details: ```manual.docx```
 
 # Note
-Qt5WebEngineCore.dll in the bin\Release path needs to be downloaded with LFS to replace the pointer
+```Qt5WebEngineCore.dll``` in the bin\Release path needs to be downloaded with LFS to replace the pointer
