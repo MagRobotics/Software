@@ -1,7 +1,7 @@
 # MagRobot: An Open Simulation Platform for Magnetically Navigated Robots
 
 # Overall
-A theoretical and implementable framework to analyze, categorize and identify ambiguity in magnetic pose estimation, which lays the foundation for optimizing configurations of magnetic sources and designing compact, energy-efficient, but unambiguous magnetic tracking systems with minimum number of magnetic sources.
+The major purpose of the proposed simulator is to facilitate the design and development of magnetic navigation systems for miniature medical robots. The simulator is built with physical models of magnetic systems and robot dynamics to accurately compute the behavior of magnetic navigation of various small-scale medical robots. 
 ![figure1](https://github.com/MagRobotics/software/assets/161809470/dce1c66f-0430-4126-bff3-49cb26c60ee3)
 
 
