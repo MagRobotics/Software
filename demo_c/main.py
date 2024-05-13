@@ -8,8 +8,8 @@ import position_estimate
 
 def createScene(root_node):
 
-    # f = open("GUI_interface/ceshi.txt", "r", encoding="UTF-8")
-    f = open("GUI_interface/info_capsule_elc_soft_stomach.txt", "r", encoding="UTF-8")
+    f = open("GUI_interface/ceshi.txt", "r", encoding="UTF-8")
+    # f = open("GUI_interface/info_capsule_elc_soft_stomach.txt", "r", encoding="UTF-8")
     # f = open("GUI_interface/info_capsule_elc_center.txt", "r", encoding="UTF-8")
     # f = open("GUI_interface/info_location.txt", "r", encoding="UTF-8")
     # f = open("GUI_interface/info_Helmholtz_Maxwell.txt", "r", encoding="UTF-8")
