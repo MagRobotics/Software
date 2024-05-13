@@ -1,4 +1,4 @@
-# Magnetic navigation simulation design software
+# MagRobot: An Open Simulation Platform for Magnetically Navigated Robots
 
 # Overall
 A theoretical and implementable framework to analyze, categorize and identify ambiguity in magnetic pose estimation, which lays the foundation for optimizing configurations of magnetic sources and designing compact, energy-efficient, but unambiguous magnetic tracking systems with minimum number of magnetic sources.
