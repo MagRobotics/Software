@@ -27,3 +27,6 @@ If you need other functions in the application software, install the correspondi
 Double-click the software to start using: bin/Release/MNSS.exe
 
 Please refer to the manual for details: manual.docx
+
+# Note
+Qt5WebEngineCore.dll in the bin\Release path needs to be downloaded with LFS to replace the pointer
